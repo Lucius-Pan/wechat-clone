@@ -1,2 +1,2 @@
-- 基于现有网络上的微信4.0以上双开方案整合并调整的一键脚本
-- This one-click script integrates and refines existing methods for dual WeChat on macOS 4.0+.
+- 基于现有网络上的 macOS 微信版本4.0以上双开方案整合并调整的一键脚本
+- This one-click script integrates and refines existing methods for dual WeChat version 4.0+ on macOS.
